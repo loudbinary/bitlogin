@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": "https://github.com/loudbinary/bitlogin",
   "author": "Loudbinary",
-  "license": "MIT",
+  "license": "none",
   "private": true,
   "scripts": {
     "dev": "nodemon --watch src src/index.js",
