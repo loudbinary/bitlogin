@@ -5,7 +5,7 @@ const Database = require('./database')
 /**
  * 
  */
-const API_PORT = process.env.PORT
+const API_PORT = process.env.API_PORT
 
 /**
  * 
