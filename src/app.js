@@ -3,7 +3,7 @@ const express = require('express')
 const responseTime = require('response-time')
 const RestError = require('./rest-error')
 const session = require('express-session')
-
+require('envkey')
 /**
  * 
  */
